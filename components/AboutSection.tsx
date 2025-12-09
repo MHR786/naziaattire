@@ -69,7 +69,7 @@ export default function AboutSection() {
           <div className="relative">
             <div className="aspect-[4/5] rounded-2xl overflow-hidden shadow-xl">
               <img
-                src="/images/hero-down.jpg"
+                src="/images/about.jpg"
                 alt="Pakistani traditional craftsmanship"
                 className="w-full h-full object-cover"
               />

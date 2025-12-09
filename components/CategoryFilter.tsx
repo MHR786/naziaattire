@@ -6,12 +6,13 @@ interface CategoryFilterProps {
 }
 
 const categories = [
-  { id: 'all', name: 'All Products', count: 24 },
-  { id: 'lawn-suits', name: 'Lawn Suits', count: 8 },
-  { id: 'formal-wear', name: 'Formal Wear', count: 6 },
-  { id: 'casual-wear', name: 'Casual Wear', count: 5 },
-  { id: 'party-wear', name: 'Party Wear', count: 3 },
-  { id: 'winter-collection', name: 'Winter Collection', count: 2 }
+  { id: "all", name: "All Products", count: 24 },
+  { id: "wedding-wear", name: "Wedding Wear", count: 10 },
+  { id: "lawn-suits", name: "Lawn Suits", count: 8 },
+  { id: "formal-wear", name: "Formal Wear", count: 6 },
+  { id: "casual-wear", name: "Casual Wear", count: 5 },
+  { id: "party-wear", name: "Party Wear", count: 3 },
+  { id: "winter-collection", name: "Winter Collection", count: 2 }
 ];
 
 export default function CategoryFilter({ selectedCategory, onCategoryChange }: CategoryFilterProps) {

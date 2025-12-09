@@ -21,7 +21,8 @@ export const products: Product[] = [
     category: "lawn-suits",
     rating: 4.8,
     reviews: 124,
-    description: "Beautiful 3-piece lawn suit with intricate embroidery work. Perfect for summer occasions with comfortable cotton fabric and elegant design."
+    description:
+      "Beautiful 3-piece lawn suit with intricate embroidery work. Perfect for summer occasions with comfortable cotton fabric and elegant design.",
   },
   {
     id: 2,
@@ -31,7 +32,8 @@ export const products: Product[] = [
     category: "lawn-suits",
     rating: 4.6,
     reviews: 89,
-    description: "Vibrant floral printed lawn suit with matching dupatta. Ideal for casual wear and summer gatherings."
+    description:
+      "Vibrant floral printed lawn suit with matching dupatta. Ideal for casual wear and summer gatherings.",
   },
   {
     id: 3,
@@ -41,7 +43,8 @@ export const products: Product[] = [
     category: "lawn-suits",
     rating: 4.9,
     reviews: 156,
-    description: "Elegant white lawn suit featuring delicate gold embroidery. Perfect for formal occasions and celebrations."
+    description:
+      "Elegant white lawn suit featuring delicate gold embroidery. Perfect for formal occasions and celebrations.",
   },
   {
     id: 4,
@@ -52,7 +55,8 @@ export const products: Product[] = [
     category: "lawn-suits",
     rating: 4.5,
     reviews: 73,
-    description: "Contemporary digital print lawn suit with modern geometric patterns. Comfortable and stylish for everyday wear."
+    description:
+      "Contemporary digital print lawn suit with modern geometric patterns. Comfortable and stylish for everyday wear.",
   },
   {
     id: 5,
@@ -62,7 +66,8 @@ export const products: Product[] = [
     category: "lawn-suits",
     rating: 4.7,
     reviews: 92,
-    description: "Soft mint green lawn suit with subtle embroidery. Perfect for spring and summer occasions."
+    description:
+      "Soft mint green lawn suit with subtle embroidery. Perfect for spring and summer occasions.",
   },
   {
     id: 6,
@@ -72,7 +77,8 @@ export const products: Product[] = [
     category: "lawn-suits",
     rating: 4.4,
     reviews: 201,
-    description: "Authentic block print lawn suit showcasing traditional Pakistani craftsmanship. Timeless design with cultural heritage."
+    description:
+      "Authentic block print lawn suit showcasing traditional Pakistani craftsmanship. Timeless design with cultural heritage.",
   },
   {
     id: 7,
@@ -83,7 +89,8 @@ export const products: Product[] = [
     category: "lawn-suits",
     rating: 4.6,
     reviews: 67,
-    description: "Premium lawn suit adorned with intricate mirror work and embroidery. Perfect for special occasions and festivities."
+    description:
+      "Premium lawn suit adorned with intricate mirror work and embroidery. Perfect for special occasions and festivities.",
   },
   {
     id: 8,
@@ -93,7 +100,8 @@ export const products: Product[] = [
     category: "lawn-suits",
     rating: 4.3,
     reviews: 88,
-    description: "Light and airy lawn suit perfect for hot summer days. Features breathable fabric and elegant design."
+    description:
+      "Light and airy lawn suit perfect for hot summer days. Features breathable fabric and elegant design.",
   },
 
   // Formal Wear
@@ -105,7 +113,8 @@ export const products: Product[] = [
     category: "formal-wear",
     rating: 4.5,
     reviews: 134,
-    description: "Luxurious velvet formal dress with heavy embellishments. Perfect for weddings and formal events."
+    description:
+      "Luxurious velvet formal dress with heavy embellishments. Perfect for weddings and formal events.",
   },
   {
     id: 10,
@@ -116,7 +125,8 @@ export const products: Product[] = [
     category: "formal-wear",
     rating: 4.4,
     reviews: 76,
-    description: "Exquisite silk formal suit featuring traditional zardozi embroidery. Ideal for grand celebrations."
+    description:
+      "Exquisite silk formal suit featuring traditional zardozi embroidery. Ideal for grand celebrations.",
   },
   {
     id: 11,
@@ -126,7 +136,8 @@ export const products: Product[] = [
     category: "formal-wear",
     rating: 4.6,
     reviews: 58,
-    description: "Elegant chiffon party dress in rose gold with delicate beadwork. Perfect for evening events."
+    description:
+      "Elegant chiffon party dress in rose gold with delicate beadwork. Perfect for evening events.",
   },
   {
     id: 12,
@@ -136,7 +147,8 @@ export const products: Product[] = [
     category: "formal-wear",
     rating: 4.7,
     reviews: 41,
-    description: "Traditional sharara set in navy blue with gold embroidery. Classic formal wear for special occasions."
+    description:
+      "Traditional sharara set in navy blue with gold embroidery. Classic formal wear for special occasions.",
   },
   {
     id: 13,
@@ -147,7 +159,8 @@ export const products: Product[] = [
     category: "formal-wear",
     rating: 4.8,
     reviews: 93,
-    description: "Stunning anarkali suit in emerald green with intricate embroidery. Perfect for formal gatherings."
+    description:
+      "Stunning anarkali suit in emerald green with intricate embroidery. Perfect for formal gatherings.",
   },
   {
     id: 14,
@@ -157,7 +170,8 @@ export const products: Product[] = [
     category: "formal-wear",
     rating: 4.5,
     reviews: 112,
-    description: "Traditional lehenga choli in rich maroon with heavy embellishments. Ideal for weddings and celebrations."
+    description:
+      "Traditional lehenga choli in rich maroon with heavy embellishments. Ideal for weddings and celebrations.",
   },
 
   // Casual Wear
@@ -169,7 +183,8 @@ export const products: Product[] = [
     category: "casual-wear",
     rating: 4.4,
     reviews: 85,
-    description: "Comfortable cotton kurta with matching palazzo pants. Perfect for daily wear and casual outings."
+    description:
+      "Comfortable cotton kurta with matching palazzo pants. Perfect for daily wear and casual outings.",
   },
   {
     id: 16,
@@ -179,7 +194,8 @@ export const products: Product[] = [
     category: "casual-wear",
     rating: 4.9,
     reviews: 67,
-    description: "Trendy printed kurti with straight pants. Comfortable and stylish for everyday wear."
+    description:
+      "Trendy printed kurti with straight pants. Comfortable and stylish for everyday wear.",
   },
   {
     id: 17,
@@ -190,7 +206,8 @@ export const products: Product[] = [
     category: "casual-wear",
     rating: 4.7,
     reviews: 156,
-    description: "Light and breezy lawn kurti with beautiful floral prints. Perfect for summer casual wear."
+    description:
+      "Light and breezy lawn kurti with beautiful floral prints. Perfect for summer casual wear.",
   },
   {
     id: 18,
@@ -200,7 +217,8 @@ export const products: Product[] = [
     category: "casual-wear",
     rating: 4.5,
     reviews: 78,
-    description: "Simple yet elegant cotton shirt with matching trousers. Ideal for office and casual wear."
+    description:
+      "Simple yet elegant cotton shirt with matching trousers. Ideal for office and casual wear.",
   },
   {
     id: 19,
@@ -210,7 +228,8 @@ export const products: Product[] = [
     category: "casual-wear",
     rating: 4.3,
     reviews: 94,
-    description: "Modern denim kurti with comfortable leggings. Perfect fusion of traditional and contemporary style."
+    description:
+      "Modern denim kurti with comfortable leggings. Perfect fusion of traditional and contemporary style.",
   },
 
   // Party Wear
@@ -222,7 +241,8 @@ export const products: Product[] = [
     category: "party-wear",
     rating: 4.6,
     reviews: 123,
-    description: "Glamorous sequined party dress in black and gold. Perfect for cocktail parties and celebrations."
+    description:
+      "Glamorous sequined party dress in black and gold. Perfect for cocktail parties and celebrations.",
   },
   {
     id: 21,
@@ -232,7 +252,8 @@ export const products: Product[] = [
     category: "party-wear",
     rating: 4.8,
     reviews: 87,
-    description: "Elegant party suit in royal purple with intricate beadwork. Ideal for evening parties and events."
+    description:
+      "Elegant party suit in royal purple with intricate beadwork. Ideal for evening parties and events.",
   },
   {
     id: 22,
@@ -243,7 +264,8 @@ export const products: Product[] = [
     category: "party-wear",
     rating: 4.6,
     reviews: 102,
-    description: "Stylish cocktail dress with attached cape in wine red. Perfect for formal parties and gatherings."
+    description:
+      "Stylish cocktail dress with attached cape in wine red. Perfect for formal parties and gatherings.",
   },
 
   // Winter Collection
@@ -255,7 +277,8 @@ export const products: Product[] = [
     category: "winter-collection",
     rating: 4.4,
     reviews: 145,
-    description: "Warm wool suit with matching shawl in cream and brown. Perfect for winter occasions and cold weather."
+    description:
+      "Warm wool suit with matching shawl in cream and brown. Perfect for winter occasions and cold weather.",
   },
   {
     id: 24,
@@ -265,6 +288,122 @@ export const products: Product[] = [
     category: "winter-collection",
     rating: 4.7,
     reviews: 67,
-    description: "Luxurious pashmina winter suit in charcoal grey with elegant embroidery. Ideal for winter formal events."
-  }
+    description:
+      "Luxurious pashmina winter suit in charcoal grey with elegant embroidery. Ideal for winter formal events.",
+  },
+  // --- Wedding Wear (Updated with Exact Filenames) ---
+  {
+    id: 25,
+    name: "Royal Red Bridal Lehenga - Baraat Edition",
+    price: 185000,
+    originalPrice: 195000,
+    image: "/images/Royal Red Bridal Lehenga.jpg",
+    category: "wedding-wear",
+    rating: 5.0,
+    reviews: 42,
+    description:
+      "Traditional heavy embroidered red lehenga with intricate zardozi work, perfect for the main Baraat ceremony.",
+  },
+  {
+    id: 26,
+    name: "Ivory & Gold Nikkah Gharara",
+    price: 95000,
+    image: "/images/Ivory Nikkah Gharara.jpg",
+    category: "wedding-wear",
+    rating: 4.9,
+    reviews: 35,
+    description:
+      "Elegant ivory gharara with delicate gold embroidery and net dupatta, designed for a sophisticated Nikkah look.",
+  },
+  {
+    id: 27,
+    name: "Pastel Peach Walima Maxi Dress",
+    price: 165000,
+    originalPrice: 172000,
+    image: "/images/Pastel Walima Maxi.jpg",
+    category: "wedding-wear",
+    rating: 4.8,
+    reviews: 28,
+    description:
+      "Soft pastel peach maxi dress with silver stone work, offering a modern and dreamy look for the Walima reception.",
+  },
+  {
+    id: 28,
+    name: "Vibrant Yellow Mehndi Sharara",
+    price: 135000,
+    image: "/images/Mehndi Sharara (Yellow).jpg",
+    category: "wedding-wear",
+    rating: 4.7,
+    reviews: 55,
+    description:
+      "Bright yellow and green sharara set with gota work, lightweight and perfect for Mehndi festivities.",
+  },
+  {
+    id: 29,
+    name: "Maroon Velvet Winter Bridal Suit",
+    price: 85000,
+    image: "/images/Maroon Velvet Bridal.jpg",
+    category: "wedding-wear",
+    rating: 4.9,
+    reviews: 19,
+    description:
+      "Luxurious maroon velvet bridal suit with antique gold embroidery, ideal for winter weddings.",
+  },
+  {
+    id: 30,
+    name: "Gold Tissue Zardozi Formal",
+    price: 148000,
+    originalPrice: 155000,
+    image: "/images/Gold Tissue Zardozi Suit.jpg",
+    category: "wedding-wear",
+    rating: 4.6,
+    reviews: 24,
+    description:
+      "Classic gold tissue suit with heavy zardozi handwork, a timeless addition to any bridal trousseau.",
+  },
+  {
+    id: 31,
+    name: "Silver Mist Walima Gown",
+    price: 97000,
+    image: "/images/Silver Mist Walima Gown.jpg",
+    category: "wedding-wear",
+    rating: 4.9,
+    reviews: 31,
+    description:
+      "Contemporary silver-grey gown with crystal embellishments and a long trail, perfect for a grand reception.",
+  },
+  {
+    id: 32,
+    name: "Rust & Orange Mehndi Lehenga",
+    price: 68000,
+    originalPrice: 88000,
+    image: "/images/Rust & Orange Mehndi Lehenga.jpg",
+    category: "wedding-wear",
+    rating: 4.8,
+    reviews: 45,
+    description:
+      "A vibrant rust and orange multicolor lehenga with mirror work, capturing the true spirit of a traditional Mehndi.",
+  },
+  {
+    id: 33,
+    name: "Emerald Green Regal Pishwas",
+    price: 78000,
+    image: "/images/Emerald Green Pishwas.jpg",
+    category: "wedding-wear",
+    rating: 4.7,
+    reviews: 22,
+    description:
+      "Floor-length emerald green pishwas with traditional gold embroidery, suitable for Shendi or reception events.",
+  },
+  {
+    id: 34,
+    name: "Regal Red Banarasi Saree",
+    price: 59400,
+    image: "/images/Regal Red Banarasi Saree.jpg",
+    category: "wedding-wear",
+    rating: 4.8,
+    reviews: 18,
+    description:
+      "Timeless red Banarasi silk saree with heavy gold borders, a classic choice for post-wedding dinners.",
+  },
 ];

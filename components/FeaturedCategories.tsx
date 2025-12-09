@@ -4,6 +4,12 @@ import Link from 'next/link';
 
 const categories = [
   {
+    id: "wedding wear",
+    name: "Wedding Wear",
+    image: "/images/wedding collection.webp",
+    description: "Complete your look with our accessories",
+  },
+  {
     id: "lawn-suits",
     name: "Lawn Suits",
     image: "/images/category-lawn-suits.jpg",
@@ -24,7 +30,7 @@ const categories = [
   {
     id: "party-wear",
     name: "Party Wear",
-    image: "/images/category-party-wear.jpg",
+    image: "/images/party wear.jpg",
     description: "Stunning outfits for celebrations",
   },
   {
@@ -33,12 +39,8 @@ const categories = [
     image: "/images/category-winter-collection.jpg",
     description: "Warm and stylish winter wear",
   },
-  {
-    id: "accessories",
-    name: "Accessories",
-    image: "/images/category-accessories.jpg",
-    description: "Complete your look with our accessories",
-  },
+
+  
 ];
 
 export default function FeaturedCategories() {
